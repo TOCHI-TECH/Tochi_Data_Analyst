@@ -1,6 +1,6 @@
 # Tochi | Data Analyst Portfolio
 
-A responsive, single-page portfolio website showcasing my journey in data analytics.
+A responsive data analytics portfolio website with a main landing page and standalone case-study pages for individual projects.
 
 ## Live website
 
@@ -17,6 +17,8 @@ I'm Tochi, an aspiring data analyst building practical skills in Python, Pandas,
 - Responsive layout for desktop, tablet, and mobile
 - Dark visual theme with a data-inspired hero graphic
 - Project, skills, about, and contact sections
+- Four standalone project case-study pages, each with its own URL
+- Direct links from the portfolio project cards to individual case studies
 - Links to the GitHub repository and profile
 - Single HTML file; no build tools or dependencies required
 
@@ -31,6 +33,7 @@ I'm Tochi, an aspiring data analyst building practical skills in Python, Pandas,
 ## Customize the portfolio
 
 - Edit `index.html` to update the introduction, skills, links, or styling.
+- Edit the HTML files in `projects/` to update each project’s question, workflow, tools, and verified findings.
 - Replace the sample project cards with links to specific notebooks, dashboards, datasets, and project write-ups as those are documented.
 - Add a professional email or LinkedIn link in the contact section when ready.
 - Keep project claims and metrics tied to real analysis results; don't publish placeholder achievements as facts.
